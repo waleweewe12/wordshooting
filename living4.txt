@@ -1,0 +1,20 @@
+﻿human,h_m_n,มนุษย์,ua
+bat,b_t,ค้างคาว,a
+mosquito,mo_qu_to,ยุง,si
+animal,a_im_l,สัตว์,na
+grass,g_ass,หญ้า
+strawberry,str_wb_rry,สตอร์เบอรรี่,ae
+papaya,p_p_y_,มะละกอ,aaa
+virus,v_r_s,ไวรัส,iu
+mushroom,mu_hr_om,เห็ด,so
+farmingo,f_rm_ngo,นกฟาร์มิงโก,ai
+hen,h_n,แม่ไก่,h_n
+pineapple,p_nea_ _le,สัปปะรด,ipp
+durian,d_r_a_,ทุเรียน,uin
+jack fruit,j_ck fr_it,ขนุน,au
+ray,r_y,กระเบน,a
+bacteria,b_cter_a,แบคทีเรีย,ai
+plant,p_a_t,พืช,ln
+fungi,f_ng_,ฟังไจ,ui
+wasp,w_sp,ต่อ,a
+dragonfly,d_ag_nf_y,แมลงปอrol

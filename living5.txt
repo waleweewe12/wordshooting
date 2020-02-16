@@ -1,0 +1,20 @@
+﻿dinoflagellate,di_ofl_ge_late,แพลงก์ตอนพืชในน้ำ(ขี้ปลาวาฬ),nal
+psilotum,p_il_t_m,หวายทะนอย,sou
+paramecium,p_r_meci_m,พารามีเซียม,aau
+schizophyta,_ _ _izophyta,กลุ่มของแบคทีเรีย,sch
+cyanobacteria, c_anob_cter_a,กลุ่มแบคทีเรียสีฟ้า,yai
+parasite,p_ras_te,พยาธิ,ai
+basidiomycota,b_sid_om_cota,กลุ่มของราจำพวกยีสต์,aiy
+butterfly,b_tt_rf_y,ผีเสื้อ,uel
+fern,f_rn,เฟิร์น,e
+liverwort,_iverwo_t,พืชจำพวกเฟิร์นลำดับ3,lr
+dinosaurus,d_n_s_ur_s,ไดโนเสาร์,ioau
+dragon,dr_g_n,มังกร,ao
+gorilla,g_r_lla,กอลิล่า,oi
+goose,g_ _se,ห่าน,oo
+porifera,p_r_fera,ฟองน้ำ,oi
+mammal,m_mm_l,สัตว์เลี้ยงลูกด้วยนม,aa
+platyhelmintes,p_ _t_he_ _ _nt_s,หนอนตัวแบน,laylmie
+zonkey,z_nk_y,ลูกของลากับม้าลาย,oe
+zorse,zo_se,ลูกของม้าลายกับม้า,r
+beast,b_ast,สัตว์ดุร้าย,e

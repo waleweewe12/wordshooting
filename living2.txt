@@ -1,0 +1,20 @@
+﻿frog,fr_g,กบ,o
+giraffe,g_raf_e,ยีราฟ,if
+goat,_o_t,แพะ,ga
+goldfish,g_ldf_sh,ปลาทอง,oi
+hamster,ha_s_e_,หนูแฮมเตอร์,mtr
+hippopotamus,hi_popo_a_us,ฮิปโปโปเตมัส,ptm
+horse,h_r_ _ ,ม้า,ose
+kangaroo,k_nga_oo,จิงโจ้,ar
+kitten,k_tt_n,ลูกแมว,ie
+lion,l__n,สิงโต,io
+lobster,lo_bst_r,ล็อบซ์เตอร์,be
+monkey,m_n_e_,ลิง,oky
+octopus,o_top_s,หมึก,cu
+owl,o_l,นกฮูก,w
+panda,p_n_a,หมีแพนด้า,ad
+pig,_i_,หมู,pg
+puppy,p_p_y,ลูกสุนัข,up
+rabbit,r_bb_t,กระต่าย,ai
+rat,r_t,หนู,a
+scorpion,sc_rpi_n,แมงป่อง,oo

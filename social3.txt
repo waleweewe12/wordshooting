@@ -1,0 +1,20 @@
+﻿walk,w_lk,การเดิน,a
+run,r_n,การวิ่ง,u
+happy,h_pp_,ความสุข,ay
+sad,s_d,ความเศร้า,a
+development,d_v_l_pm_nt,การพัฒนา,eeoe
+evolution,ev_l_t_o_,การพัฒนา,ouin
+revolution,r_v_l_t_o_,วิวัฒนาการ,eouin
+family,fa_il_,ครอบครัว,my
+entrance,e_t_an_e,ทางเข้า,nrc
+feeling,f_ _ling,ควาามรู้สึก ee
+hurt,h_ _ _ ,ความเจ็บปวด,urt
+wild,_ _ _ d, ป่า,wil
+marry,m_r_y,แต่งงาน,ar
+architecture,a_ _ _ _ _ _ _ _ _ _ _ , สถาปัตยกรรม,rchitecture
+communication,communic_tion,การสื่อสาร,a
+mind,m_nd,จิตใจ,i
+body,b_dy,ร่างกาย,o
+ballad,b_ll_d,เพลงบัลลาด,aa
+music,m_s_c,ดนตรี,ui
+sleep,s_eep,นอน,l

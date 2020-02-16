@@ -1,0 +1,20 @@
+﻿people,pe_ple,ผู้คน,o
+population,pop_la_ion,ประชากร,ut
+park,p_r_,สวนสาธารณะ,ak
+train,t_ai_,รถไฟ,rn
+airport,a_rp_r_,สนามบิน,iot
+study,s_ud_,เรียน,ty
+shoes,sh_es,รองเท้า,o
+socks,s_cks,ถุงเท้า,o
+pyjamas,p_j_mas,ชุดนอน,ya
+homework,h_m_w_rk,การบ้าน,oeo
+housework,h_u_ew_rk,งานบ้าน,os
+bag,b_g,กระเป๋า,a
+pipe,p_p_,ท่อ,ie
+centre,cent_e,จุดศูนย์กลาง,r
+sound,s_u_d,เสียง,on
+learn,_ea_n,เรียนรู้,lr
+jump,_ _ _p,กระโดด,hum
+boat,b_at,เรือ,o
+camp,c_m_,ค่าย,ap
+young,_oung,เยาวน์,y

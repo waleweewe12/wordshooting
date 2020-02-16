@@ -1,0 +1,20 @@
+﻿gravity,gr_vi_y,แรงโน้มถ่วง,at
+nitrogenous base,n_trog_n_us b_se,สารชีวโมเลกุลชนิดหนึ่ง,ieo
+genetic,_en_t_c,พันธุกรรม,gei
+enzyme,enz_me,เอนไซม์,y
+treshold,tr_sh_ld,จุดกระตุ้นเพื่อไปจุดสูงสุด,eo
+fertilization,fer_iliz_tion,การปฏิสนธิ,ta
+immunology,_ _ _ _nology,ภูมิคุ้มกันวิทยา,immu
+freeze,fr_ _z_,เยือกแข็ง,eee
+string,st_ing,เส้นเชือก,r
+laptop,l_pt_p,คอมพิวเตอร์ขนาดพกพา,ao
+share,s_are,แบ่งปัน,h
+acetylene,ace_yle_e,แอลไคน์คาร์บอนสองตัว,tn
+radiation,ra_iation,แผ่รังสี,d
+dynamics,d_nam_cs,พลวัต,yi
+analysis,a_al_s_s,วิเคราะห์,nyi
+capacitor,_ap_c_tor,ตัวเก็บประจุ,cai
+resistance,_e_ista_ce,ต้านทาน,rsn
+frame,_rame,กรอบ,f
+anatomy,_na_omy,กายวิภาคศาสตร์,at
+fluid,f_uid,ของไหล,l

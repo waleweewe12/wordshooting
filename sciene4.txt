@@ -1,0 +1,20 @@
+﻿data,d_t_,ข้อมูล,aa
+selection,_election,การคัดสรร,s
+cube,cu_e,ลูกบาศก์,b
+illusion,i_l_s_on,ภาพลวงตา,lui
+axis,a_i_,แกน,xs
+algorithms,_l_o_i_h_s,ขั้นตอนการแก้ปัญหา,agrtm
+aeroplane,a_rop_ane,เครื่องบิน,el
+cloud,c_o_d,เมฆ,lu
+cyclone,c_clone,ชื่อพายุชนิดหนึ่ง,y
+overflow,o_er_lo_,เกินพิกัด,vfw
+traversal,_raver_al,ท่องเดินทาง,ts
+integrand,i_te_ran_,ปริพัทธ์,ngd
+integral,i_tegra_,ปริพันธ์,nl
+detected,_et_cted,ตรวจพบ,de
+ill,_ _ _, ไข้, ill
+security,sec_ri_y,ความปลอดภัย,ut
+management,_ana_eme_t,การจัดการ,mgn
+dust,d_st,ฝุ่น,u
+surround,s_r_ou_d,รอบตัว,urn
+terminal,t_rmi_al,ปลายทาง,en

@@ -1,0 +1,21 @@
+﻿Thai,Th_i,ไทย,a
+Japanese,Jap_nese,ญี่ปุ่น,a
+Chinese,Chin_se,จีน,e
+British,Br_tish,อังกฤษ,i
+American,A_ericam,อเมริกัน,m
+Australian,A_strali_n,ออสเตเรียน,ua
+Korean,Ko_ean,เกาหลี,r
+French,Fren_h,ฝรั่งเศส,c
+Laos,L_os,ลาว,a
+Myanmar,M_an_ar,เมียนมาร์,ym
+Philippines,Phi_ippines,ชาวฟิลิปปินส์,l
+Britain,Br_tain,เกาะอังกฤษ,a
+Thailand,Thai_an_,ประเทศไทย,ld
+United Kingdom,U_ited K_ngd_m,ประเทศสหราชอาณาจักร,nio
+United States,U_ited St_t_s,ประเทศสหรัฐอเมริกา,nae
+France,F_ance,ประเทศฝรั่งเศษ,r
+Germany,G_rma_y,ประเทศเยอรมันนี,en
+Japan,J_p_n,ประเทศญี่ปุ่น,aa
+China,Ch_n_,ประเทศจีน,ia
+Asean countrys,a_ean co_ntrys,ประเทศในอาเซียน,su
+

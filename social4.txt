@@ -1,0 +1,20 @@
+﻿nexus,n_xus,สายสัมพันธ์,e
+truth,t_uth,ความจริง,r
+wisdom,w_sd_m,ปัญญา,io
+moral,m_ra_,คติ,ol
+inherit,in_erit,สืบทอด,h
+abstract,a_str_ct,นามธรรม,ba
+communism,comm_nism,คอมมิวนิสต์,u
+democracy,dem_cracy,ประชาธิปไตย,o
+realistic,re_lis_ic,เสมือนจริง,at
+ancient,a_cient,ยุคโบราณ,n
+economics,e_on_mi_s,เศรษฐศาสตร์,coc
+exchange,e_ _hange,แลกเปลี่ยน,xc
+currency,cu_ren_y,การเงิน,rc
+demand,d_mand,อุปสงค์,e
+supply,s_pply,อุปทาน,u
+amount,a_oun_,คงเหลือ,mt
+judgement,j_dgeme_t,ยุติธรรม,un
+market,ma_ket,ตลาด,r
+bank,b_nk,ธนาคาร,a
+competition,com_ _ _ _ _ _ _ _ , การแข่งขัน,petition

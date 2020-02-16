@@ -1,0 +1,20 @@
+﻿alligator,alligat_r,อะลิเกเตอร์,o
+ant,a_t,มด,n
+bear,be_r,หมี,a
+bee,b_e,ผึ้ง,e
+bird,b_rd,นก,i
+camel,came_,อูฐ,l
+cat,_at,แมว,c
+cheetah,chee_ah,ชีต้า,t
+chicken,_hicken,ไก่,c
+chimpanzee,chim_anzee,ลิงชิมแพนซี,p
+cow,_ow,แม่วัว,c
+crocodile,_rocod_le,จระเข้,ci
+deer,d_e_,กวาง,er
+dog,_o_,สุนัข,dg
+dolphin,do_ _hin,โลมา,lp
+duck,_uc_,เป็ด,dk
+eagle,e_gl_,อินทรีย์,ae
+elephant,e_ephan_,ช้าง,et
+fish,_is_,ปลา,sh
+fly,_l_,แมลงวัน,fy

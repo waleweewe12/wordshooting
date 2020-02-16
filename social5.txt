@@ -1,0 +1,20 @@
+﻿war,_ _ _ ,สงคราม,war
+battlefield,b_ttle_ie_d,สนามรบ,afl
+efficiency,eff_ _ _ _ _cy,ประสิทธิภาพ,icien
+global,g_ob_l,โลก,la
+active,a_tive,กระตุ้น,c
+interest,_ _ _ _ _ _ _ t,สนใจ,interes
+average,a_era_e,เฉลี่ย,vg
+principal,p_in_ip_ l ,หลักการ,rca
+temple,_emp_ _ , วัด,tle
+church,ch_rc_,โบสถ์,uh
+mosque,m_s_ue,มัสยิด,oq
+indian guy,in_ian gu_,เรียกชายชาวอินเดียทั่วไป,dy
+civilization,c_v_lization,อารยธรรม,ii
+Osiris,O_iris,เทพหลังความตายของชาวอียิปต์,s
+prophecy,pro_he_y,พยากรณ์,pc
+hope,h_p_,ความหวัง,oe
+destiny,de_t_n_,โชคชะตา,siy
+enlightenment,_n_i_h_ment,ตรัสรู้,elgt
+god,g_d,พระเจ้า,o
+christ,ch_ist,พระเยซู,r

@@ -1,0 +1,20 @@
+﻿book,b_o_,หนังสือ,ok
+papper,p_pp_r,กระดาษ,ae
+pencil,p_nc_l,ดินสอ,ei
+pen,p_n,ปากกา,e
+bottle,b_t_le,ขวด,ot
+notebook,no_eb_ok,สมุด,to
+ruler,r_l_r,ไม้บรรทัด,ue
+desk,d_s_,โต๊ะ,ek
+car,_ _ r,รถ,ar
+bicycle,bic_cl_,จักรยาน,ye
+motorcycle,mo_orc_cle,รถจักรยานยนต์,ty
+party,p_rt_,งานเลี้ยง,ay
+door,d_o_,ประตู,or
+glass,gl_ss,แก้ว,a
+bus,b_s,รถเมล์,u
+destination,de_tin_tion,ปลายทาง,sa
+mouse,mo_se,หนู,u
+watch,wa_ch,มองดู,t
+shirt,sh_rt,เสื้อเชิ้ต,i
+skirt,sk_rt,กระโปง,i

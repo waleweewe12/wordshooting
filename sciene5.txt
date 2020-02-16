@@ -1,0 +1,20 @@
+﻿terodotoxin,t_r_d_t_ _in,พิษปลาปักเป้า,eooox
+caffeine,c_ff_ine,สารที่อยู่ในกาแฟ,ae
+cryptographic,_ry_to_rap_ic,การเข้ารหัส,cpgh
+psycology,_s_cology,จิตวิทยา,py
+innovation,i_no_a_ion,นวัตกรรม,nvt
+auxin,_u_in,สารเคมีชนิดหนึ่งที่ช่วยเร่งการเจริญเติบโตของพืช,ax
+potassiumpermanganate,p_t_ss_um_erm_n_a_ate,ด่างทับทิม,oaipagn
+amphoteric,_mpho_er_c,เป็นได้ทั้งกรดและเบส,ati
+uncertainty,_n_erta_nty,ความไม่แน่นอน,uci
+acid,_ _ _ d,กรด,aci
+storage,_tor_ge,บรรจุข้อมูล,sa
+glue, _ _ u _,กาว,gle
+titration,_i_ration,สารทำปฏิกิริยาพอดีกัน,tt
+complex,_omple_,ซับซ้อน,cx
+ammonia,a_m_n_a,สารที่เป็นพิษอยู่ในเอนเบส,moi
+hemoglobin,_e_ _ g _ _ bin,เม็ดเลือดแดง,hmolo
+temperature,t_mpe_a_ure,อุณหภูมิ,ert
+microbiology,_i_r_b_ology,จุลชีววิทยา,mcoi
+mutation,_utation,การกลายพันธุ์,m
+artificial intelligence,_ _ _ _ _ _ _ _ _ _ intelligence,ปัญญาประดิษฐ์,artificial

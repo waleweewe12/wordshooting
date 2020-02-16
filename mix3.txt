@@ -1,0 +1,20 @@
+﻿transportation,_rans_or_ation,การขนส่ง,tpt
+ship,s_ip,เรือ,h
+automobile,automob_ _e,รถยนต์,il
+expressway,_xpress_ay,ทางด่วน,ew
+obstruction,o_struc_ion,การกีดขวาง,bt
+intersection,_n_er_ec_ion,ทางแยก,itst
+pedestrain,_edes_rain,ทางข้าม,pt
+overpass,_v_rp_ss,สะพานลอยคนข้าม,oea
+delay,_el_y,ช้า,da
+neighborhood,_ei_hb_rh_o_,เพื่อนบ้าน,ngood
+ambulance,a_b_l_n_e,รถพยาบาล,muac
+railway,_ail_ay,ทางรถไฟ,rw
+aviation,_v_a_ion,การบิน,ait
+emergency,e_er_e_c_,ฉุกเฉิน,mgny
+lounge,_oun_e,ห้องนั่งเล่น,lg
+immigration,_mm_g_ation,ด่านตรวจคนเข้าเมือง,iir
+maintenance,_ain_enance,การซ่อมบำรุง,mt
+decorate,_e_o_a_e,ตกแต่ง,dcrt
+remodel,_e_o_e_,ปรับเปลี่ยน,rmdl
+explosion,_x_losion,ระเบิด,ep
